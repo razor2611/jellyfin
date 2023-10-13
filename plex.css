@@ -3,14 +3,14 @@
     font-family:Circular Bold;
     font-style:normal;
     font-weight:700;
-    src:url("https://github.com/razor2611/jellyfin/raw/0.1/circularbold.woff2") format("woff2")
+    src:url("https://cdn.jsdelivr.net/gh/razor2611/jellyfin@main/circularbold.woff2") format("woff2")
 }
 @font-face{
     font-display:swap;
     font-family:PlexCircular;
     font-style:normal;
     font-weight:700;
-    src:url("https://github.com/razor2611/jellyfin/raw/0.1/plexcircle.woff2") format("woff2")
+    src:url("https://cdn.jsdelivr.net/gh/razor2611/jellyfin@main/plexcircle.woff2") format("woff2")
 }
 
 @font-face{
@@ -18,42 +18,42 @@
     font-family:Circular Bold;
     font-style:normal;
     font-weight:700;
-    src:url("https://github.com/razor2611/jellyfin/raw/0.1/circularbold.woff2") format("woff2")
+    src:url("https://cdn.jsdelivr.net/gh/razor2611/jellyfin@main/circularbold.woff2") format("woff2")
 }
 @font-face{
     font-display:swap;
     font-family:PlexCircular;
     font-style:normal;
     font-weight:700;
-    src:url("https://github.com/razor2611/jellyfin/raw/0.1/plexcircle.woff2") format("woff2")
+    src:url("https://cdn.jsdelivr.net/gh/razor2611/jellyfin@main/plexcircle.woff2") format("woff2")
 }
 @font-face{
     font-display:swap;
     font-family:Open Sans Regular;
     font-style:normal;
     font-weight:400;
-    src:url("https://github.com/razor2611/jellyfin/raw/0.1/opensansregular.woff") format("woff")
+    src:url("https://cdn.jsdelivr.net/gh/razor2611/jellyfin@main/opensansregular.woff") format("woff")
 }
 @font-face{
     font-display:swap;
     font-family:Open Sans Semibold;
     font-style:normal;
     font-weight:400;
-    src:url("https://github.com/razor2611/jellyfin/raw/0.1/opensanssemibold.woff") format("woff")
+    src:url("https://cdn.jsdelivr.net/gh/razor2611/jellyfin@main/opensanssemibold.woff") format("woff")
 }
 @font-face{
     font-display:swap;
     font-family:Open Sans Bold;
     font-style:normal;
     font-weight:400;
-    src:url("https://github.com/razor2611/jellyfin/raw/0.1/opensansbold.woff") format("woff")
+    src:url("https://cdn.jsdelivr.net/gh/razor2611/jellyfin@main/opensansbold.woff") format("woff")
 }
 @font-face{
     font-display:swap;
     font-family:Open Sans;
     font-style:normal;
     font-weight:400;
-    src:url("https://github.com/razor2611/jellyfin/raw/0.1/opensans.woff") format("woff")
+    src:url("https://cdn.jsdelivr.net/gh/razor2611/jellyfin@main/opensans.woff") format("woff")
 }
 @font-face{
     font-display:swap;

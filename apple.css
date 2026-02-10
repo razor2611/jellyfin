@@ -3098,7 +3098,7 @@ div[data-role="controlgroup"] a.ui-btn-active {
 
 @media (hover: hover) and (pointer: fine) {
     .paper-icon-button-light:hover:not(:disabled) {
-        color: #fff;
+        color: orange;
         background-color: rgb(255 255 255 / 5%);
     }
 
